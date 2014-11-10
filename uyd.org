@@ -1,0 +1,18 @@
+* Archives
+** Bugs
+*** TODO Episode 100 parts
+    SCHEDULED: <2014-11-14 Fri> 
+*** TODO Search needs larger context
+** Features
+*** TODO Find site styling template
+*** TODO Find episode images
+*** TODO Find older episode long descriptions
+* OkSeatbelts
+** Main Site bugs
+** Christmas Creep
+*** TODO Email those with incomplete data
+   SCHEDULED: <2014-11-21 Fri>
+*** TODO Match up the peeps
+   SCHEDULED: <2014-11-24 Mon>
+*** TODO Send out email to participants
+   SCHEDULED: <2014-11-26 Wed>
