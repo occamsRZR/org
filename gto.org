@@ -1,0 +1,18 @@
+
+#+COLUMNS: %87ITEM %TODO %3PRIORITY %TAGS
+* Tasks
+** TODO [#A] Abstract out the industry page functionality	  :corporate:
+*** DONE [#A] Write path helpers so we aren't using media industry path :corporate:
+    CLOSED: [2014-11-11 Tue 10:54] SCHEDULED: <2014-11-11 Tue>
+*** DONE [#B] See which controller methods can be reused cand which have to be specific :corporate:
+    CLOSED: [2014-11-11 Tue 10:54] SCHEDULED: <2014-11-11 Tue>
+*** TODO [#C] Look at the landing pages for Press and Commerce	  :corporate:
+    SCHEDULED: <2014-11-12 Wed>
+** TODO [#B] Premium Profiles					       :core:
+   DEADLINE: <2014-12-31 Wed>
+** TODO [#A] Photo Galleries				     :core:corporate:
+*** TODO [#A] Photo Gallery for Corporate Sites 		  :corporate:
+*** TODO [#B] Photo Gallery for Premium Profiles		       :core:
+*** TODO [#A] Photo Gallery includes videos			       :core:
+** TODO [#C] Sponsored Listings					       :core:
+   DEADLINE: <2014-12-31 Wed>

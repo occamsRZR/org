@@ -1,12 +1,21 @@
+#+COLUMNS: %43ITEM %TODO %3PRIORITY %TAGS
 * Archives
 ** Bugs
 *** TODO Episode 100 parts
     SCHEDULED: <2014-11-14 Fri> 
-*** TODO Search needs larger context
+*** TODO Search needs larger context				     :SEARCH:
 ** Features
 *** TODO Find site styling template
 *** TODO Find episode images
 *** TODO Find older episode long descriptions
+*** TODO Move from AWS to Digital Ocean
+    DEADLINE: <2014-12-31 Wed>
+**** TODO Think about moving to CoreOS with Docker
+***** TODO Try out CoreOS locally with Vagrant and Docker
+***** TODO Refactor Vagrant provisioning to use CoreOS and Docker
+**** TODO Move from AWS to hard drive storage
+***** TODO 
+**** TODO 
 * OkSeatbelts
 ** Main Site bugs
 ** Christmas Creep
