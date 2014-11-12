@@ -1,17 +1,18 @@
 #+COLUMNS: %43ITEM %TODO %3PRIORITY %TAGS
 * Archives
 ** Bugs
-*** TODO Episode 100 parts
-    SCHEDULED: <2014-11-14 Fri> 
-*** TODO Search needs larger context				     :SEARCH:
+*** DONE Episode 100 parts					   :playback:
+    CLOSED: [2014-11-11 Tue 22:02] SCHEDULED: <2014-11-14 Fri> 
 ** Features
 *** TODO Find site styling template
 *** TODO Find episode images
 *** TODO Find older episode long descriptions
 *** TODO Move from AWS to Digital Ocean
+*** TODO Search needs larger context				     :search:
     DEADLINE: <2014-12-31 Wed>
 **** TODO Think about moving to CoreOS with Docker
 ***** TODO Try out CoreOS locally with Vagrant and Docker
+      :NOTES: not sure if it even makes sense to switch to CoreOS, might be good to use docker/dokku, though.
 ***** TODO Refactor Vagrant provisioning to use CoreOS and Docker
 **** TODO Move from AWS to hard drive storage
 ***** TODO 
