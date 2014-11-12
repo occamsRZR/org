@@ -4,19 +4,34 @@
 *** DONE Episode 100 parts					   :playback:
     CLOSED: [2014-11-11 Tue 22:02] SCHEDULED: <2014-11-14 Fri> 
 ** Features
-*** TODO Find site styling template
-*** TODO Find episode images
-*** TODO Find older episode long descriptions
-*** TODO Move from AWS to Digital Ocean
+*** TODO Update styling
+**** TODO Find site styling template					:rnd:
+**** TODO Find someone to do a redesign					:rnd:
+*** TODO Find episode images						:rnd:
 *** TODO Search needs larger context				     :search:
     DEADLINE: <2014-12-31 Wed>
-**** TODO Think about moving to CoreOS with Docker
-***** TODO Try out CoreOS locally with Vagrant and Docker
-      :NOTES: not sure if it even makes sense to switch to CoreOS, might be good to use docker/dokku, though.
-***** TODO Refactor Vagrant provisioning to use CoreOS and Docker
-**** TODO Move from AWS to hard drive storage
-***** TODO 
-**** TODO 
+*** TODO Move from AWS to Digital Ocean				     :devops:
+    SCHEDULED: <2014-11-21 Fri> DEADLINE: <2014-11-30 Sun>
+    - Will need to move the server
+      1) Decide on what setup
+      2) Figure out provisioning and if it needs a refactor
+      3) Figure out the costs pros/cons
+    - Will need to transfer off of S3
+      1) Should probably use paperclip
+      2) Look into using nginx streaming capabilities
+      3) Look into scraping all of the current episodes as well
+**** TODO Think about moving to CoreOS with Docker			:rnd:
+***** TODO Try out CoreOS locally with Vagrant and Docker		:rnd:
+      SCHEDULED: <2014-11-11 Tue>
+      - not sure if it even makes sense to switch to CoreOS
+	- seems like it's best suited to handle large clusters
+      - might be good to use docker/dokku, though.
+**** TODO Try out a dokku setup						:rnd:
+***** TODO Try out Dokku locally with Vagrant
+***** TODO Try out multiple applications running on dokku setup
+**** TODO Move from S3 to hard drive storage			     :devops:
+*** TODO Find older episode long descriptions				:rnd:
+*** TODO Implement prev/next functionality			   :playback:
 * OkSeatbelts
 ** Main Site bugs
 ** Christmas Creep
