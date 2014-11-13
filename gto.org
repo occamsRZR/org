@@ -7,12 +7,44 @@
 *** DONE [#B] See which controller methods can be reused cand which have to be specific :corporate:
     CLOSED: [2014-11-11 Tue 10:54] SCHEDULED: <2014-11-11 Tue>
 *** TODO [#C] Look at the landing pages for Press and Commerce	  :corporate:
+    - These need styling tweaks
+    - The backend for these subsections should work
     SCHEDULED: <2014-11-12 Wed>
-** TODO [#B] Premium Profiles					       :core:
-   DEADLINE: <2014-12-31 Wed>
 ** TODO [#A] Photo Galleries				     :core:corporate:
 *** TODO [#A] Photo Gallery for Corporate Sites 		  :corporate:
+    - Waiting on a few things from BL
+      1) Mocks
+	 1) Mocks for search results
+	 2) Mocks for photo gallery
+	 3) Dimentions for photo gallery thumbnails and medium views
+      2) If we need to refactor the photo gallery
+      3) Them to classify all of the images into photo galleries
+    SCHEDULED: <2014-11-17 Mon>
 *** TODO [#B] Photo Gallery for Premium Profiles		       :core:
-*** TODO [#A] Photo Gallery includes videos			       :core:
-** TODO [#C] Sponsored Listings					       :core:
-   DEADLINE: <2014-12-31 Wed>
+    SCHEDULED: <2014-11-24 Mon>
+**** TODO [#B] includes videos		       :core:
+     - client was thinking youtube videos for premium profiles would be best
+     - don't worry about users uploading videos and converting them
+**** TODO [#B] includes multiple photos instead of one
+     - Might want to use the Attachment data model
+** TODO [#A] Remedy server issues				       :core:
+   DEADLINE: <2014-11-19 Wed> SCHEDULED: <2014-11-12 Wed>
+*** TODO [#A] Setup alerts on AWS for hard drive space
+    DEADLINE: <2014-11-12 Wed> SCHEDULED: <2014-11-12 Wed>
+*** TODO [#C] Provide estimate for how much work it would take to move to s3
+    SCHEDULED: <2014-12-03 Wed>
+** TODO [#B] Sponsored Listings					       :core:
+   - Have the backend part set up for this
+   - Need to start displaying three of them at a time with certain conditions
+     1) If there are three in the interest group, display them
+     2) If there are less than three, get those in the interest group and then pull the rest from the general category
+     3) Need to ask: check if there are city-specific ads and where they need to be pulled in
+   - Implement the city-specific ads
+   SCHEDULED: <2014-12-01 Mon> DEADLINE: <2014-12-19 Fri>
+** TODO [#B] Premium Profiles					       :core:
+   SCHEDULED: <2014-11-24 Mon> DEADLINE: <2014-12-19 Fri>
+** TODO [#B] Banner Ads						       :core:
+   - This will need to be interest and general category specific ads pulled from dfp
+** TODO [#B] Group Travel					  :corporate:
+   - This still needs work and we are waiting to hear by from Michael for the approval process
+   - Need to get a deadline for this
