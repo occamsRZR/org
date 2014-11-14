@@ -1,0 +1,7 @@
+* Fulkku
+  Possible and upcoming side-projects to be launched on a dokku instance.
+** Fulkku repo itself
+** Project management software
+   - For the archives
+   - For OkS
+   - For String Theory
