@@ -20,15 +20,24 @@
       1) Should probably use paperclip
       2) Look into using nginx streaming capabilities
       3) Look into scraping all of the current episodes as well
-**** TODO Think about moving to CoreOS with Docker			:rnd:
-***** TODO Try out CoreOS locally with Vagrant and Docker		:rnd:
-      SCHEDULED: <2014-11-11 Tue>
+**** DONE Think about moving to CoreOS with Docker			:rnd:
+     CLOSED: [2014-11-18 Tue 20:36]
+***** DONE Try out CoreOS locally with Vagrant and Docker		:rnd:
+      CLOSED: [2014-11-18 Tue 20:33] SCHEDULED: <2014-11-11 Tue>
       - not sure if it even makes sense to switch to CoreOS
 	- seems like it's best suited to handle large clusters
       - might be good to use docker/dokku, though.
+      - would be better used if I needed a large cluster :P
+      - not going to use it
 **** TODO Try out a dokku setup						:rnd:
-***** TODO Try out Dokku locally with Vagrant
+***** DONE Try out Dokku locally with Vagrant
+      CLOSED: [2014-11-18 Tue 20:34]
+      - Works pretty well.
 ***** TODO Try out multiple applications running on dokku setup
+      - Tryed out:
+	1) archives
+	2) octopress blog
+	3) gitlab (pending)
 **** TODO Move from S3 to hard drive storage			     :devops:
 *** TODO Find older episode long descriptions				:rnd:
 *** TODO Implement prev/next functionality			   :playback:
