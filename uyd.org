@@ -1,6 +1,7 @@
 #+COLUMNS: %43ITEM %TODO %3PRIORITY %TAGS
 * Archives
 ** Bugs
+*** TODO Episode 157, 158 missing
 *** DONE Episode 100 parts					   :playback:
     CLOSED: [2014-11-11 Tue 22:02] SCHEDULED: <2014-11-14 Fri> 
 ** Features
