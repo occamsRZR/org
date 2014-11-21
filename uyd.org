@@ -41,6 +41,7 @@
 **** TODO Move from S3 to hard drive storage			     :devops:
 *** TODO Find older episode long descriptions				:rnd:
 *** TODO Implement prev/next functionality			   :playback:
+    SCHEDULED: <2014-11-20 Thu>
 * OkSeatbelts
 ** Main Site bugs
 ** Christmas Creep
