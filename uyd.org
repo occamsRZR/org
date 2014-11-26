@@ -2,6 +2,7 @@
 * Archives
 ** Bugs
 *** TODO Episode 157, 158 missing
+    SCHEDULED: <2014-11-26 Wed>
     - These are the lost episodes.
     - They are actually episodes 1 and 2.
     - Episode 3 is 159
@@ -55,8 +56,8 @@
 * OkSeatbelts
 ** Main Site bugs
 ** Christmas Creep
-*** TODO Email those with incomplete data
-   SCHEDULED: <2014-11-25 Tue>
+*** DONE Email those with incomplete data
+    CLOSED: [2014-11-26 Wed 17:32] SCHEDULED: <2014-11-25 Tue>
 *** TODO Match up the peeps
    SCHEDULED: <2014-11-25 Tue>
 *** TODO Send out email to participants
