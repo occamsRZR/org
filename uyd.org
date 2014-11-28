@@ -58,7 +58,10 @@
 ** Christmas Creep
 *** DONE Email those with incomplete data
     CLOSED: [2014-11-26 Wed 17:32] SCHEDULED: <2014-11-25 Tue>
-*** TODO Match up the peeps
-   SCHEDULED: <2014-11-25 Tue>
+*** DONE Match up the peeps
+    CLOSED: [2014-11-28 Fri 04:33] SCHEDULED: <2014-11-25 Tue>
+*** TODO Email that one Canadian dude to see if he want to mail to US
+*** TODO Refactor current matchups afer his response
+*** TODO Move the incomplete data we got from those emails
 *** TODO Send out email to participants
    SCHEDULED: <2014-11-26 Wed>
