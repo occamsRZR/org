@@ -51,9 +51,7 @@
 * The lost eps and Christmas peeps
 ** TODO Get the Lost eps together
 ** TODO The the eposdes annotized if we can 
-** TODO Showcase thre prev/next, secrets santa, lost episodes
-
-
+** TODO Annount the prev/next feature
 *** TODO Episode 157, 158 missing
     SCHEDULED: <2014-11-26 Wed>
     - These are the lost episodes.
@@ -67,11 +65,11 @@
     CLOSED: [2014-11-26 Wed 17:32] SCHEDULED: <2014-11-25 Tue>
 *** DONE Match up the peeps
     CLOSED: [2014-11-28 Fri 04:33] SCHEDULED: <2014-11-25 Tue>
-*** TODO Email that one Canadian dude to see if he want to mail to US
-    SCHEDULED: <2014-11-28 Fri>
+*** DONE Email that one Canadian dude to see if he wants to mail to US
+    CLOSED: [2014-11-28 Fri 22:59] SCHEDULED: <2014-11-28 Fri>
 *** TODO Refactor current matchups afer his response
     SCHEDULED: <2014-11-28 Fri>
-*** TODO Move the incomplete data we got from those emails
-    SCHEDULED: <2014-11-28 Fri>
+*** DONE Move the incomplete data we got from those emails
+    CLOSED: [2014-11-28 Fri 23:06] SCHEDULED: <2014-11-28 Fri>
 *** TODO Send out email to participants
    SCHEDULED: <2014-11-29 Sat>
