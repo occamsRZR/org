@@ -72,4 +72,4 @@
 *** DONE Move the incomplete data we got from those emails
     CLOSED: [2014-11-28 Fri 23:06] SCHEDULED: <2014-11-28 Fri>
 *** TODO Send out email to participants
-   SCHEDULED: <2014-11-29 Sat>
+   SCHEDULED: <2014-11-30 Sun>
