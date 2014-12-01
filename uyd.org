@@ -67,9 +67,11 @@
     CLOSED: [2014-11-28 Fri 04:33] SCHEDULED: <2014-11-25 Tue>
 *** DONE Email that one Canadian dude to see if he wants to mail to US
     CLOSED: [2014-11-28 Fri 22:59] SCHEDULED: <2014-11-28 Fri>
-*** TODO Refactor current matchups afer his response
-    SCHEDULED: <2014-11-28 Fri>
+*** DONE Refactor current matchups afer his response
+    CLOSED: [2014-11-30 Sun 19:49] SCHEDULED: <2014-11-28 Fri>
 *** DONE Move the incomplete data we got from those emails
     CLOSED: [2014-11-28 Fri 23:06] SCHEDULED: <2014-11-28 Fri>
-*** TODO Send out email to participants
-   SCHEDULED: <2014-11-30 Sun>
+*** DONE Send out email to participants
+    CLOSED: [2014-11-30 Sun 19:49] SCHEDULED: <2014-11-30 Sun>
+*** TODO Continue fielding questions on Facebook and over email
+*** TODO Match Jan up with a person!
