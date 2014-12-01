@@ -1,6 +1,7 @@
 
 #+COLUMNS: %87ITEM %TODO %3PRIORITY %TAGS
-* TODO [#A] Abstract out the industry page functionality	  :corporate:
+* DONE [#A] Abstract out the industry page functionality	  :corporate:
+  CLOSED: [2014-12-01 Mon 10:27]
 ** DONE [#A] Write path helpers so we aren't using media industry path :corporate:
    CLOSED: [2014-11-11 Tue 10:54] SCHEDULED: <2014-11-11 Tue>
 ** DONE [#B] See which controller methods can be reused cand which have to be specific :corporate:
@@ -47,3 +48,25 @@
 * TODO [#B] Group Travel					  :corporate:
   - This still needs work and we are waiting to hear by from Michael for the approval process
   - Need to get a deadline for this
+
+* 12/1/14 Meeting Notes
+** Restructuring of priorities
+*** Consumer facing things are a priority
+**** Sponsored listings
+**** Premium profiles
+**** Banner ads through DFP using Interests/City/General 
+*** Client requested features (19hrs total)
+**** Want users to be able to add city-wide events or at an address that isn't a Destination
+**** Dan has mock-ups
+***** Three radio buttons
+****** Dest you own
+       - if you are sponsored user, you can select any destination
+       - CVBs (Convention and Visitor Bureau)
+****** City-wide - automatically generate these
+****** Specific address
+       - Doesn't need to be standardized
+****** City-wide/Specific Address events need to be vetted
+** Corporate Sites
+*** Some open issues
+*** Need to add in upload functionality
+
