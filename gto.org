@@ -52,7 +52,8 @@
 * TODO [#A] Event Refactor					       :core:
 ** TODO [#A] Ensure form works
 *** TODO [#A] Config backend routes
-*** TODO [#B] Send to staging for testing
+*** DONE [#B] Send to staging for testing
+    CLOSED: [2014-12-04 Thu 13:26]
 ** TODO [#A] Ensure event searching works
 *** DONE [#B] Decide on two options - Ending going with second option
     CLOSED: [2014-12-02 Tue 18:11]
@@ -69,15 +70,18 @@
 	 - map to display location of event, not destination
 	 - info box to display different fields depending on the address type
        + Need to have events that are tied to destinations in forms duplicate the address of the destination
-*** TODO [#B] Move current event destinations's addresses into the event model
-*** TODO [#A] Refactor front-end info box displaying of the data
+*** DONE [#B] Move current event destinations's addresses into the event model
+    CLOSED: [2014-12-04 Thu 13:26]
+*** DONE [#A] Refactor front-end in displaying of the data
+    CLOSED: [2014-12-04 Thu 13:26]
     1. City-wide
        - just display the ghost location
     2. Dest-tied
        - Just display the dest
     3. Only Address
        - Display event address
-*** TODO [#A] Duplicate address/geolocation of destination into the event
+*** DONE [#A] Duplicate address/geolocation of destination into the event
+    CLOSED: [2014-12-04 Thu 13:27]
     1. City-wide
     2. Dest-tied
     3. Only Address
