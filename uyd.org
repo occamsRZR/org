@@ -5,9 +5,15 @@
     SCHEDULED: <2014-11-14 Fri> 
 *** TODO Disable Dope/Nope buttons if not logged in.
 *** TODO Fix styling functionality for the "Please sign in to vote"
+*** TODO Search bar is kinda fucked for mobile users
 ** Features
 *** DONE Implement prev/next functionality			   :playback:
     CLOSED: [2014-11-23 Sun 22:20] SCHEDULED: <2014-11-20 Thu>
+*** DONE Move the search bar to the permabar so it's easier to search :search:
+    CLOSED: [2014-12-05 Fri 11:20]
+    - current working on full screen.  the mobile seems to have some syling and UX issues
+*** DONE Set the facebook meta tags
+    CLOSED: [2014-12-05 Fri 11:21] SCHEDULED: <2014-12-04 Thu>
 *** TODO Update styling
 **** TODO Find site styling template					:rnd:
 **** TODO Find someone to do a redesign					:rnd:
@@ -15,7 +21,7 @@
 *** TODO Search needs larger context				     :search:
     DEADLINE: <2014-12-31 Wed>
 *** TODO Move from AWS to Digital Ocean				     :devops:
-    SCHEDULED: <2014-11-21 Fri> DEADLINE: <2014-11-30 Sun>
+    SCHEDULED: <2014-12-13 Sat> DEADLINE: <2014-12-27 Sat>
     - Will need to move the server
       1) Decide on what setup
       2) Figure out provisioning and if it needs a refactor
@@ -44,20 +50,21 @@
 	3) gitlab (pending)
 **** TODO Move from S3 to hard drive storage			     :devops:
 *** TODO Find older episode long descriptions				:rnd:
-*** TODO Move the search bar to the permabar so it's easier to search :search:
-    - current working on full screen.  the mobile seems to have some syling and UX issues
-*** TODO Set the facebook meta tags
-    SCHEDULED: <2014-12-04 Thu>
+    - Found a couple places:
+      - http://podtail.com/podcast/uhh-yeah-dude/
+	- This one has it but the format is super shitty, it has an infinite scroll
+      - Another is bookmarked, need to figure out what computer has that bookmark
 
-* The lost eps and Christmas peeps
-** TODO Get the Lost eps together
-** TODO Get the episodes annotated if we can 
-** TODO Episode 157, 158 missing
-   SCHEDULED: <2014-12-04 Thu>
-   - These are the lost episodes.
-   - They are actually episodes 1 and 2.
-   - Episode 3 is 159
-   - Should change the title of these
+** The lost eps
+*** DONE Get the Lost eps together
+    CLOSED: [2014-12-05 Fri 11:21]
+*** DONE Get the episodes annotated if we can 
+    CLOSED: [2014-12-05 Fri 11:21]
+*** TODO Episode 157, 158 missing
+    SCHEDULED: <2014-12-04 Thu>
+    - These are the lost episodes.
+    - They are actually episodes 1 and 2.
+    - Should change the title of these
 * OkSeatbelts
 ** Main Site bugs
 ** Christmas Creep
@@ -73,8 +80,9 @@
     CLOSED: [2014-11-28 Fri 23:06] SCHEDULED: <2014-11-28 Fri>
 *** DONE Send out email to participants
     CLOSED: [2014-11-30 Sun 19:49] SCHEDULED: <2014-11-30 Sun>
-*** TODO Continue fielding questions on Facebook and over email
 *** DONE Match the second wavers and send out their email
     CLOSED: [2014-12-04 Thu 20:25]
 *** TODO Finalize shopping
+    SCHEDULED: <2014-12-06 Sat>
 *** TODO Send out package to my creeper
+*** TODO Continue fielding questions on Facebook and over email
