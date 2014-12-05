@@ -47,17 +47,17 @@
 *** TODO Move the search bar to the permabar so it's easier to search :search:
     - current working on full screen.  the mobile seems to have some syling and UX issues
 *** TODO Set the facebook meta tags
+    SCHEDULED: <2014-12-04 Thu>
 
 * The lost eps and Christmas peeps
 ** TODO Get the Lost eps together
-** TODO The the eposdes annotized if we can 
-** TODO Annount the prev/next feature
-*** TODO Episode 157, 158 missing
-    SCHEDULED: <2014-11-26 Wed>
-    - These are the lost episodes.
-    - They are actually episodes 1 and 2.
-    - Episode 3 is 159
-    - Should change the title of these
+** TODO Get the episodes annotated if we can 
+** TODO Episode 157, 158 missing
+   SCHEDULED: <2014-12-04 Thu>
+   - These are the lost episodes.
+   - They are actually episodes 1 and 2.
+   - Episode 3 is 159
+   - Should change the title of these
 * OkSeatbelts
 ** Main Site bugs
 ** Christmas Creep
@@ -76,3 +76,5 @@
 *** TODO Continue fielding questions on Facebook and over email
 *** DONE Match the second wavers and send out their email
     CLOSED: [2014-12-04 Thu 20:25]
+*** TODO Finalize shopping
+*** TODO Send out package to my creeper
