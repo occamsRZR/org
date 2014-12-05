@@ -52,24 +52,39 @@
 * TODO [#A] Event Refactor					       :core:
 ** TODO [#A] Ensure form works
 *** TODO [#A] Config backend routes
-*** TODO [#B] Send to staging for testing
+*** DONE [#B] Send to staging for testing
+    CLOSED: [2014-12-04 Thu 13:26]
 ** TODO [#A] Ensure event searching works
-*** DONE [#B] Decide on two options
+*** DONE [#B] Decide on two options - Ending going with second option
     CLOSED: [2014-12-02 Tue 18:11]
-    - Continue with Ghost Destinations
-      - Might require less work
-      - Could require more complex by city searching
-    - Move events to be dependent of Destinations
-      - This is probably going to be the best long-term solution
-      - Will need to move current Event's destinations
-	- Looks like there are 236 Events with destinations
-	- Of those, 68 are occuring in the future
-      - Looks like they've already started using this
-      - Need to refactor front-end
-	- map to display location of event, not destination
-	- info box to display different fields depending on the address type
-      - Need to have events that are tied to destinations in forms duplicate the address of the destination
-
+    1. Continue with Ghost Destinations
+       + Might require less work
+       + Could require more complex by city searching
+    2. Move events to be dependent of Destinations
+       + This is probably going to be the best long-term solution
+       + Will need to move current Event's destinations
+	 - Looks like there are 236 Events with destinations
+	 - Of those, 68 are occuring in the future
+       + Looks like they've already started using this
+       + Need to refactor front-end
+	 - map to display location of event, not destination
+	 - info box to display different fields depending on the address type
+       + Need to have events that are tied to destinations in forms duplicate the address of the destination
+*** DONE [#B] Move current event destinations's addresses into the event model
+    CLOSED: [2014-12-04 Thu 13:26]
+*** DONE [#A] Refactor front-end in displaying of the data
+    CLOSED: [2014-12-04 Thu 13:26]
+    1. City-wide
+       - just display the ghost location
+    2. Dest-tied
+       - Just display the dest
+    3. Only Address
+       - Display event address
+*** DONE [#A] Duplicate address/geolocation of destination into the event
+    CLOSED: [2014-12-04 Thu 13:27]
+    1. City-wide
+    2. Dest-tied
+    3. Only Address
 * 12/1/14 Meeting Notes
 ** Restructuring of priorities
 *** Consumer facing things are a priority
