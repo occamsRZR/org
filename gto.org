@@ -42,19 +42,22 @@
   - Implement the city-specific ads
   SCHEDULED: <2014-12-01 Mon> DEADLINE: <2014-12-19 Fri>
 * TODO [#B] Premium Profiles					       :core:
-  SCHEDULED: <2014-11-24 Mon> DEADLINE: <2014-12-19 Fri>
+  SCHEDULED: <2014-12-04 Thu> DEADLINE: <2014-12-19 Fri>
 * TODO [#B] Banner Ads						       :core:
   - This will need to be interest and general category specific ads pulled from dfp
 * TODO [#B] Group Travel					  :corporate:
   - This still needs work and we are waiting to hear by from Michael for the approval process
   - Need to get a deadline for this
 
-* TODO [#A] Event Refactor					       :core:
-** TODO [#A] Ensure form works
+* DONE [#A] Event Refactor					       :core:
+  CLOSED: [2014-12-05 Fri 11:44]
+** DONE [#A] Ensure form works
+   CLOSED: [2014-12-05 Fri 11:43]
 *** TODO [#A] Config backend routes
 *** DONE [#B] Send to staging for testing
     CLOSED: [2014-12-04 Thu 13:26]
-** TODO [#A] Ensure event searching works
+** DONE [#A] Ensure event searching works
+   CLOSED: [2014-12-05 Fri 11:43]
 *** DONE [#B] Decide on two options - Ending going with second option
     CLOSED: [2014-12-02 Tue 18:11]
     1. Continue with Ghost Destinations
@@ -87,21 +90,28 @@
     3. Only Address
 * 12/1/14 Meeting Notes
 ** Restructuring of priorities
-*** Consumer facing things are a priority
-**** Sponsored listings
-**** Premium profiles
-**** Banner ads through DFP using Interests/City/General 
-*** Client requested features (19hrs total)
+*** DONE Client requested features
+    CLOSED: [2014-12-05 Fri 11:42]
+    - This is more or less done.  A couple other features were requested that will be done later
 **** Want users to be able to add city-wide events or at an address that isn't a Destination
 **** Dan has mock-ups
 ***** Three radio buttons
-****** Dest you own
+****** DONE Dest you own
+       CLOSED: [2014-12-05 Fri 11:42]
        - if you are sponsored user, you can select any destination
        - CVBs (Convention and Visitor Bureau)
-****** City-wide - automatically generate these
-****** Specific address
+****** DONE City-wide - automatically generate these
+       CLOSED: [2014-12-05 Fri 11:42]
+****** DONE Specific address
+       CLOSED: [2014-12-05 Fri 11:42]
        - Doesn't need to be standardized
-****** City-wide/Specific Address events need to be vetted
+****** DONE City-wide/Specific Address events need to be vetted
+       CLOSED: [2014-12-05 Fri 11:42]
+*** Consumer facing things are a priority
+**** Sponsored listings
+     - See ToDo up top
+**** Premium profiles
+**** Banner ads through DFP using Interests/City/General 
 ** Corporate Sites
 *** Some open issues
 *** Need to add in upload functionality
