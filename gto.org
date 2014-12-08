@@ -43,6 +43,8 @@
   SCHEDULED: <2014-12-01 Mon> DEADLINE: <2014-12-19 Fri>
 * TODO [#B] Premium Profiles					       :core:
   SCHEDULED: <2014-12-04 Thu> DEADLINE: <2014-12-19 Fri>
+** TODO [#A] Add multiple photos and video links to destinations
+** TODO [#B] Add gallery to display multiple photos and videos
 * TODO [#B] Banner Ads						       :core:
   - This will need to be interest and general category specific ads pulled from dfp
 * TODO [#B] Group Travel					  :corporate:
@@ -88,6 +90,7 @@
     1. City-wide
     2. Dest-tied
     3. Only Address
+
 * 12/1/14 Meeting Notes
 ** Restructuring of priorities
 *** DONE Client requested features
@@ -115,4 +118,4 @@
 ** Corporate Sites
 *** Some open issues
 *** Need to add in upload functionality
-
+* 12/8/14 Meeting Notes
