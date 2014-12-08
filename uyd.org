@@ -14,9 +14,30 @@
     - current working on full screen.  the mobile seems to have some syling and UX issues
 *** DONE Set the facebook meta tags
     CLOSED: [2014-12-05 Fri 11:21] SCHEDULED: <2014-12-04 Thu>
+
+*** DONE The lost eps
+    CLOSED: [2014-12-07 Sun 20:56]
+**** DONE Get the Lost eps together
+     CLOSED: [2014-12-05 Fri 11:21]
+**** DONE Get the episodes annotated if we can 
+     CLOSED: [2014-12-05 Fri 11:21]
+**** DONE Episode 157, 158 missing
+     CLOSED: [2014-12-07 Sun 20:56] SCHEDULED: <2014-12-04 Thu>
+     - These are the lost episodes.
+     - They are actually episodes 1 and 2.
+     - Should change the title of these
 *** TODO Update styling
 **** TODO Find site styling template					:rnd:
-**** TODO Find someone to do a redesign					:rnd:
+**** TODO Update the episode show view
+***** DONE Update the timestamps
+      - Ended up removing the tables.
+      CLOSED: [2014-12-07 Sun 20:58]
+***** TODO Update the player
+***** TODO Update the description
+***** TODO Update the action buttons
+**** TODO Update the episode index view
+**** TODO Update the homepage
+**** TODO Update the header
 *** TODO Find episode images						:rnd:
 *** TODO Search needs larger context				     :search:
     DEADLINE: <2014-12-31 Wed>
@@ -54,17 +75,6 @@
       - http://podtail.com/podcast/uhh-yeah-dude/
 	- This one has it but the format is super shitty, it has an infinite scroll
       - Another is bookmarked, need to figure out what computer has that bookmark
-
-** The lost eps
-*** DONE Get the Lost eps together
-    CLOSED: [2014-12-05 Fri 11:21]
-*** DONE Get the episodes annotated if we can 
-    CLOSED: [2014-12-05 Fri 11:21]
-*** TODO Episode 157, 158 missing
-    SCHEDULED: <2014-12-04 Thu>
-    - These are the lost episodes.
-    - They are actually episodes 1 and 2.
-    - Should change the title of these
 * OkSeatbelts
 ** Main Site bugs
 ** Christmas Creep
