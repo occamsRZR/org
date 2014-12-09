@@ -44,6 +44,13 @@
 * TODO [#B] Premium Profiles					       :core:
   SCHEDULED: <2014-12-04 Thu> DEADLINE: <2014-12-19 Fri>
 ** TODO [#A] Add multiple photos and video links to destinations
+** TODO [#A] Add in form that can handle multiple photos and videos
+   - Waiting on Dan for the revised mocks
+   - Starting to work on the form with altered form and JS Uploader
+   - Look into also uploading the big thumbnail from YouTube when/if they use YouTube links
+     + Seems to be jQuery plugins out there
+     + http://www.sitepoint.com/display-youtube-thumbnails-easy-jquery/
+   - Will need to see how we want to display this gallery in the form
 ** TODO [#B] Add gallery to display multiple photos and videos
 * TODO [#B] Banner Ads						       :core:
   - This will need to be interest and general category specific ads pulled from dfp
