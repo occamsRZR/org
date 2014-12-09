@@ -126,3 +126,19 @@
 *** Some open issues
 *** Need to add in upload functionality
 * 12/8/14 Meeting Notes
+** Group travel
+*** Got feedback from the dude who is going to be running group travel
+*** Was a mixture of a few different ways
+    - Wanted himself to choose destinations
+    - Wanted destinations to manage group travel tags
+    - Once admin has marked a destination as group travel, the front end form is altered for the owner
+*** Might need to add specific group travel description
+    - Won't be a limit of 750 characters for group travel
+*** Think about adding fields or having them add to description
+    - Min/max tour length
+    - Min/max group size
+*** Some destinations that are only group travel
+    - Add boolean for "group_travel_exclusive" field for core
+*** Discuss group travel scope update after the first
+** Corporate pages
+   - Not working on Corporate pages until after the first
