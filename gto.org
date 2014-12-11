@@ -29,10 +29,11 @@
     - Might want to use the Attachment data model
 * TODO [#A] Remedy server issues				       :core:
   DEADLINE: <2014-11-19 Wed> SCHEDULED: <2014-11-12 Wed>
-** TODO [#A] Setup alerts on AWS for hard drive space
-   DEADLINE: <2014-11-12 Wed> SCHEDULED: <2014-11-12 Wed>
-** TODO [#C] Provide estimate for how much work it would take to move to s3
-   SCHEDULED: <2014-12-03 Wed>
+** DONE [#A] Setup alerts on AWS for hard drive space
+   CLOSED: [2014-12-11 Thu 17:37] DEADLINE: <2014-11-12 Wed> SCHEDULED: <2014-11-12 Wed>
+** DONE [#C] Provide estimate for how much work it would take to move to s3
+   - Don't think we'll be doing this
+   CLOSED: [2014-12-11 Thu 17:37] SCHEDULED: <2014-12-03 Wed>
 * TODO [#B] Sponsored Listings					       :core:
   - Have the backend part set up for this
   - Need to start displaying three of them at a time with certain conditions
