@@ -52,6 +52,14 @@
      + Seems to be jQuery plugins out there
      + http://www.sitepoint.com/display-youtube-thumbnails-easy-jquery/
    - Will need to see how we want to display this gallery in the form
+     + Looks like he removed this gallery in the updated mocks
+*** TODO [#A] Add in youtube/vimeo parser
+**** TODO Get the url from the modal
+**** TODO Use that url to fetch the thumbnail to display on the form
+     - Can't actually use this as the input
+     - Will need to implement a ruby model callback that will fetch this thumbnail
+       + See the `video_asset.rb` file on krsna
+**** TODO Add this url as an input field
 ** TODO [#B] Add gallery to display multiple photos and videos
 * TODO [#B] Banner Ads						       :core:
   - This will need to be interest and general category specific ads pulled from dfp
