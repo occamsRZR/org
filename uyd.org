@@ -27,12 +27,12 @@
      - They are actually episodes 1 and 2.
      - Should change the title of these
 *** TODO Update styling
-**** TODO Find site styling template					:rnd:
 **** TODO Update the episode show view
 ***** DONE Update the timestamps
       - Ended up removing the tables.
       CLOSED: [2014-12-07 Sun 20:58]
 ***** TODO Update the player
+****** TODO Move the player to Ember js controllers/views
 ***** TODO Update the description
 ***** TODO Update the action buttons
 **** TODO Update the episode index view
