@@ -92,7 +92,28 @@
     CLOSED: [2014-11-30 Sun 19:49] SCHEDULED: <2014-11-30 Sun>
 *** DONE Match the second wavers and send out their email
     CLOSED: [2014-12-04 Thu 20:25]
+*** DONE Send out the reminder email
+    CLOSED: [2014-12-10 Wed 17:33]
 *** TODO Finalize shopping
     SCHEDULED: <2014-12-06 Sat>
+*** TODO Put together the package
+    SCHEDULED: <2014-12-12 Fri>
+    + Write out messages for three post cards
+      1. Chimney Rock
+	 - Elk's Penis
+	 - Chimney Cock
+	 - Oregon Trail
+      2. Western Nebraska
+	 - Oregon Trail
+	 - Sidney :: Home of Cabelas
+	 - Sidney :: Home of enclosed xenophobic bumper sticker
+      3. Carhenge
+	 - Western Nebraska, Alliance
+	 - Some dick decided to take the spotlight from Chimney Rock and replicate Stonehenge
+	 - It was listed for sale in 2011
+    + Include other items
+      1. UYD sticker
+      2. SciTy DVDs
+      3. Bumper sticker
 *** TODO Send out package to my creeper
 *** TODO Continue fielding questions on Facebook and over email
