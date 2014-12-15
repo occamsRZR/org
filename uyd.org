@@ -94,26 +94,36 @@
     CLOSED: [2014-12-04 Thu 20:25]
 *** DONE Send out the reminder email
     CLOSED: [2014-12-10 Wed 17:33]
-*** TODO Finalize shopping
-    SCHEDULED: <2014-12-06 Sat>
-*** TODO Put together the package
-    SCHEDULED: <2014-12-12 Fri>
-    + Write out messages for three post cards
-      1. Chimney Rock
-	 - Elk's Penis
-	 - Chimney Cock
-	 - Oregon Trail
-      2. Western Nebraska
-	 - Oregon Trail
-	 - Sidney :: Home of Cabelas
-	 - Sidney :: Home of enclosed xenophobic bumper sticker
-      3. Carhenge
-	 - Western Nebraska, Alliance
-	 - Some dick decided to take the spotlight from Chimney Rock and replicate Stonehenge
-	 - It was listed for sale in 2011
+*** DONE Finalize shopping
+    CLOSED: [2014-12-14 Sun 19:23] SCHEDULED: <2014-12-06 Sat>
+*** DONE Put together the package
+    CLOSED: [2014-12-14 Sun 20:04] SCHEDULED: <2014-12-12 Fri>
+    + Write postcard message.
+      - Chimney Rock
+      The native Lakota tribes called this erect rock "Elk penis". I thought it was only fitting 
+    to include a dick pic in this inappropriate package (wanky, wanky).  You will also find some SciTy DVDs. 
+    One of them details the life of this dick named "L. Ron Hubbard".  He was born in Tilden, Nebraska and 
+    quickly grabbed the attention of the world with his bookcasts and invented this beatiful thing called
+    "Dianetics".  You will also find one of the most offensive bumper stickers I've ever ran across.
+    I picked it up about an hour away from Chimney rock in the town of Sidney, NE.  Your best bet might be
+    hiding this away in a desk drawer, giving it away to a xenophobic friend, or putting it in your next 
+    scrapbook.  Lastly, I have included a couple stickers from a dancecast I enjoy.  
+    You might check it out sometime. 
     + Include other items
-      1. UYD sticker
+      1. UYD stickers
       2. SciTy DVDs
       3. Bumper sticker
 *** TODO Send out package to my creeper
+    SCHEDULED: <2014-12-15 Mon>
 *** TODO Continue fielding questions on Facebook and over email
+*** TODO Come up with strategy to help those who got the shaft
+    - Four different participants
+      1. Sent a gift, got a gift :: Nothing to be done
+      2. Didn't send a gift, got a gift :: Jerks
+      3. Didn't send, didn't receive :: Nothining to be done
+      4. Sent a gift, didn't recieve :: Need to put together care packages
+    - Care packages
+      + Maybe some UYD stickers
+      + Postcards
+      + Thrift shop items
+      + SciTy DVD
