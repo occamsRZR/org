@@ -113,8 +113,8 @@
       1. UYD stickers
       2. SciTy DVDs
       3. Bumper sticker
-*** TODO Send out package to my creeper
-    SCHEDULED: <2014-12-15 Mon>
+*** DONE Send out package to my creeper
+    CLOSED: [2014-12-15 Mon 23:25] SCHEDULED: <2014-12-15 Mon>
 *** TODO Continue fielding questions on Facebook and over email
 *** TODO Come up with strategy to help those who got the shaft
     - Four different participants
