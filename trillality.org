@@ -1,0 +1,6 @@
+* 12/22/14 meeting notes
+** Have intro gif which is the first thing we'll be seeing
+** There is a slider for the "core" ("core site"?) that probably won't make it into the initial release
+** Jan 2 we will send a status update
+** Jan 7th 1PM we will have a meeting
+*** Will have Josh in that meeting
