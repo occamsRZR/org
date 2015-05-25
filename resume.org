@@ -1,0 +1,36 @@
+Brandon Fulk
+
+* Resume
+
+* Education
+** 2005-2006: Electrical Engineering, Computer Engineering.  University of Minnesota, Twin Cities.
+** 2006-2012: Biological Sciences, Computational Biology, Bioinformatics, Computer Science.  University of Nebraska, Lincoln.
+
+* Experience
+** April 2012-present: CTO. 42
+*** Skills: Ruby on Rails, Backbone, AngularJS, DevOps, Project Management, Android and Cross Platform (Apache Cordova) mobile frameworks.
+*** Accomplishments: 
+**** Was brought on for the company's first Rails project.
+**** Helped switch to git for version control.
+**** Implemented Capistrano for deployments.
+**** Pushed for Test Driven and Behavior Driven Development with RSpec, Capybara, and Cucumber.
+**** Automated and put server provisioning under version control with Chef.
+**** Implemented portable development environments with Vagrant.
+**** Built a Continuous Integration and build server with Jenkins.
+**** Switched new clients over to Amazon AWS from Rackspace.
+**** Started using NGinx for projects that could take advantage of its event driven design.
+**** Implemented Native Android Application for Duncan Aviation.
+**** Supported the backend and frontend development of RivalMe: a Sinatra API and Apache Cordova app. 
+** January 2009-April 2012: Research Assistant. Bioinformatics Lab of Dr. Etsuko Moriyama
+*** Skills: Perl, PHP, C, Emacs, Machine Learning.
+*** Accomplishments:
+**** Main research was in G Protein Evolution in Plants.
+**** G Protein Interactome in Arabidopsis thaliana.
+***** Work was included in Klopffleish, K. et al. Arabidopsis G-protein interactome reveals connections to cell wall carbohydrates and morphogenesis. Molecular Systems Biology
+**** Participated in Poster and Speech presentations.
+**** Implemented Pariwise Comparison algorithm in C to optimize orginal Perl program and orders of magnitude of computation time.
+**** Utilized UNL's Supercomputer for experiments.
+**** Became comfortable with PBS and TORQUE job scheduling.
+**** Provided support for a Condor High-Throughput Computing implementation of indel-Seq-Gen.
+**** Used Machine Learning, namely Support Vector Machines, for protein classification.
+ 
