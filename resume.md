@@ -58,7 +58,7 @@
         
         4.  Summer 2009 - Molecular Evolution of G-Proteins. Poster Presentation at Annual Meeting of the Society of Molecular Biology and Evolution - Iowa City, IA.
     
-    4.  Implemented Pariwise Comparison algorithm in C to optimize orginal Perl program and orders of magnitude of computation time.
+    4.  Implemented Pairwise Comparison algorithm in C to optimize orginal Perl program and orders of magnitude of computation time.
     
     5.  Utilized UNL's Supercomputer for experiments.
     
