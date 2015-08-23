@@ -1,0 +1,47 @@
+* Geist Meeting 6/4/15
+** Getting feedback from their website
+*** Very few bugs
+*** Mobile traffic doing well
+*** Lakestar SEO - company being use for SEO
+** Ability to have 'zoomable content'
+*** Popping up modals to see photos instead of taking to full pAage
+*** What they are wanting to display now has been rendered
+**** Also wanting these rendered images to be able to be rotated
+** More effective breadcrumbing of nav
+** PDU Finder
+*** What we are here today
+*** No major change needed, just need to make it more user friendly
+*** Filterable features
+*** most major things
+**** Refine country-specific
+**** When adding new products, takes nearly 24 hours to propagate
+***** This is a bit combursome
+***** Have to use a couple different pieces to add and edit PDU
+***** Ability to shoot out to several different databases
+*** Mark in Philly does RPD
+*** Current PDU finder being hosted at RackSpace (probably), unanimous
+*** Currently not being documented at all
+**** NO clue how it's working
+**** Have had to figure it out themselves
+** Breakdown of the exact steps of the process for adding/editing PDUs
+*** Enter in catman
+**** Catman is what it's called
+**** It's backbone is an Access DB
+**** Things that happen in CatMan doesn't always go into PDU Finder
+**** Pricing is also tied to CatMan
+***** Pricing isn't shown to end user
+**** Overhaul of CatMan would be best to suit her needs (Ranelle)
+*** Then goes to Access
+*** Puts those entries in SQL DB
+*** no metadata is processed before it hits the sites
+*** Demo of CatMan
+**** Have to log into remote desktop
+**** Showing CatMan and/or M$ Access
+**** Also use IQ for ER piece and manufact.
+***** in CatMan, also have an IQ Part number for that
+***** working on incorporating SalesForce into IQ/CatMan system
+**** Also use a CRM
+** Asking Dave in IT as to how PDUs are propogated
+*** everything from catman goes into SQL db
+*** from SQL DB, goes into PDU finder
+*** Somehow sync'd with things
