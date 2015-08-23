@@ -1,0 +1,12 @@
+* Chart of Roles of each
+  | Device Name | Device Type  | Device Role(s)          |
+  |-------------+--------------+-------------------------|
+  | RhubarbPi   | Raspberry Pi | Server, Controls Duno   |
+  | Duno        | Arduino      | Controls desktop lights |
+  |             |              |                         |
+* Raspberry Pi
+** Would like to use Elixir Embedded - see:  [[https://github.com/fhunleth/elixir_ale][Elixir/ALE]]
+** Would like to run it on Phoenix + Elixir
+* Arduino
+** Has PWM - good for LED strings
+* References / Links
